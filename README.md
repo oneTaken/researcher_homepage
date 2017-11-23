@@ -15,7 +15,6 @@ This is a collection of homepages of some researchers.
 + Bolei Zhou [homepage](http://people.csail.mit.edu/bzhou/)
 + Georgia Gkioxari [homepage](https://gkioxari.github.io/)
 + Alex Graves [homepage](http://www.cs.toronto.edu/~graves/)
-+ Mingsheng Long [homepage](http://ise.thss.tsinghua.edu.cn/~mlong/)
 + Ilya Sutskever [homepage](http://www.cs.toronto.edu/~ilya/)
 + rodrigob [homepage](https://rodrigob.github.io/)
 + genekogan [homepage](http://genekogan.com/)
@@ -32,4 +31,4 @@ This is a collection of homepages of some researchers.
 + Kenji Kawaguchi [homepage](http://www.mit.edu/~kawaguch/)
 + Chelsea Finn [homepage](https://people.eecs.berkeley.edu/~cbfinn/)
 + Zhuang Liu [homepage](https://liuzhuang13.github.io/)
-+ 
++ Zhiqiang Shen [homepage](http://www.zhiqiangshen.com/)
